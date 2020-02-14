@@ -1,0 +1,9 @@
+C:\Suma\EF\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.deps.json
+C:\Suma\EF\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.dll
+C:\Suma\EF\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfoInputs.cache
+C:\Suma\EF\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfo.cs
+C:\Suma\EF\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.json
+C:\Suma\EF\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.dev.json
+C:\Suma\EF\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.pdb
+C:\Suma\EF\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.dll
+C:\Suma\EF\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.pdb

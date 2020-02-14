@@ -1,0 +1,9 @@
+C:\Suma\EF\EFAssignment1\bin\Debug\netcoreapp3.1\EFAssignment1.deps.json
+C:\Suma\EF\EFAssignment1\bin\Debug\netcoreapp3.1\EFAssignment1.dll
+C:\Suma\EF\EFAssignment1\obj\Debug\netcoreapp3.1\EFAssignment1.AssemblyInfoInputs.cache
+C:\Suma\EF\EFAssignment1\obj\Debug\netcoreapp3.1\EFAssignment1.AssemblyInfo.cs
+C:\Suma\EF\EFAssignment1\bin\Debug\netcoreapp3.1\EFAssignment1.runtimeconfig.json
+C:\Suma\EF\EFAssignment1\bin\Debug\netcoreapp3.1\EFAssignment1.runtimeconfig.dev.json
+C:\Suma\EF\EFAssignment1\bin\Debug\netcoreapp3.1\EFAssignment1.pdb
+C:\Suma\EF\EFAssignment1\obj\Debug\netcoreapp3.1\EFAssignment1.dll
+C:\Suma\EF\EFAssignment1\obj\Debug\netcoreapp3.1\EFAssignment1.pdb
